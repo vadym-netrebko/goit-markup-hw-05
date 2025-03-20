@@ -576,7 +576,7 @@ fieldset {
   top: 50%;
   left: 50%;
   border-radius: 4px;
-  max-width: 408px;
+  width: 408px;
   transform: translate(-50%, -50%);
   background: #fcfcfc;
   min-height: 584px;
